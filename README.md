@@ -2,8 +2,8 @@
 
 <h1 align="center"><b>⠐ 【 JEN AI 】⠐</b></h1>
 <img alt=“ JEN AI" src="https://graph.org/file/019982dd59b8355c62941.jpg"/>
-<h3 align="left"><b>✫ A PYTHON POWERED AI WHICH CAN LISTEN YOUR COMMANDS AND CAN DO WORK FOR YOU
-</b></h3>
+<h4 align="left"><b>✫ A PYTHON POWERED AI WHICH CAN LISTEN YOUR COMMANDS AND CAN DO WORK FOR YOU
+</b></h4>
 <img alt=“ JEN AI" src="https://graph.org/file/f8904fbafce1288515bfc.jpg"/>
 
 
