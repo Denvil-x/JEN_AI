@@ -24,7 +24,7 @@
 
         
 ```
-<img alt=“ JEN AI" src="https://graph.org/file/f8904fbafce1288515bfc.jpg"/>
+
 
 
 <h2 align="center"><b> ⠂ᴀρρяσα¢н мє⠐
@@ -36,3 +36,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Denvilx)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Me.__.harsh)  
 [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@Denvilx)</b></h2>
+
+
+<img alt=“ JEN AI" src="https://graph.org/file/f8904fbafce1288515bfc.jpg"/>
