@@ -13,7 +13,7 @@
      • OPEN YOUTUBE + SEARCH
      • OPEN GOOGLE + SEARCH
      • OPEN STACKOVERFLOW
-     •PLAY MUSIC
+     • PLAY MUSIC
      • SPEAK THE TIME
      • OPEN VS CODE
 
@@ -24,13 +24,13 @@
 
         
 ```
-
+<img alt=“ JEN AI" src="https://graph.org/file/f8904fbafce1288515bfc.jpg"/>
 
 
 <h2 align="center"><b> ⠂ᴀρρяσα¢н мє⠐
   <br>
   <br>
-<img alt=“ JEN AI" src="https://graph.org/file/f8904fbafce1288515bfc.jpg"/>
+
   
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Denvilx)
