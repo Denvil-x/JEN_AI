@@ -2,11 +2,11 @@
 
 <h1 align="center"><b>⠐ 【 JEN AI 】⠐</b></h1>
 <img alt=“ JEN AI" src="https://graph.org/file/019982dd59b8355c62941.jpg"/>
-'''
+```
 ✫ A PYTHON POWERED AI WHICH CAN LISTEN YOUR COMMANDS AND CAN DO WORK FOR YOU
 ✫ SUPPORTED BY WINDOWS ONLY
 ✫ MADE WITH GOOGLE RECOGNIZER AND MICROSOFT PSYTTX3 VOICE MODULE
-'''
+```
 <img alt=“ JEN AI" src="https://graph.org/file/f8904fbafce1288515bfc.jpg"/>
 
 
