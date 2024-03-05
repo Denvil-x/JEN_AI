@@ -2,6 +2,8 @@
 
 <h1 align="center"><b>⠐ JEN AI ⠐</b></h1>
 <img alt=“ JEN AI" src="https://graph.org/file/019982dd59b8355c62941.jpg"/>
+<img alt=“ JEN AI" src="https://graph.org/file/f8904fbafce1288515bfc.jpg"/>
+
 
 
   
@@ -26,7 +28,6 @@
 ```
 
 
-
 <h2 align="center"><b> ⠂ᴀρρяσα¢н мє⠐
   <br>
   <br>
@@ -38,4 +39,5 @@
 [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@Denvilx)</b></h2>
 
 
-<img alt=“ JEN AI" src="https://graph.org/file/f8904fbafce1288515bfc.jpg"/>
+
+
